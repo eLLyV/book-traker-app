@@ -1,0 +1,7 @@
+{
+  "name": "book-track-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
